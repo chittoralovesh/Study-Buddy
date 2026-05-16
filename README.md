@@ -192,6 +192,25 @@ study-buddy/
 
 ---
 
+<img width="2868" height="1800" alt="image" src="https://github.com/user-attachments/assets/62f8c250-4507-4863-b6c9-9db8ca77e634" />
+<img width="2880" height="1626" alt="image" src="https://github.com/user-attachments/assets/b350df1d-c1e1-4ebe-b32d-22e67e3a8a79" />
+<img width="2880" height="1632" alt="image" src="https://github.com/user-attachments/assets/581f72c5-4bec-4913-93e7-cbbdbc407e24" />
+<img width="2876" height="1628" alt="image" src="https://github.com/user-attachments/assets/d0cbb29f-b2dd-4f19-b168-b4584b615247" />
+<img width="2866" height="1628" alt="image" src="https://github.com/user-attachments/assets/80946891-0f40-4f47-a950-c185225fb6a2" />
+<img width="2852" height="1616" alt="image" src="https://github.com/user-attachments/assets/6e9bbe9d-f083-4c4e-8a60-400d0f357a95" />
+<img width="2876" height="1614" alt="image" src="https://github.com/user-attachments/assets/6ae668d1-a424-4e5f-9c07-46c733eab6f6" />
+<img width="2872" height="1612" alt="image" src="https://github.com/user-attachments/assets/b3225f40-0d70-4060-9009-16b79de92996" />
+<img width="2862" height="1610" alt="image" src="https://github.com/user-attachments/assets/0a4aea83-7499-42b8-98e4-aa1f080dd9dc" />
+<img width="2872" height="1616" alt="image" src="https://github.com/user-attachments/assets/948f60ec-a8f9-4d4f-9b8a-d9750159ec79" />
+<img width="2876" height="1616" alt="image" src="https://github.com/user-attachments/assets/a1737dab-fa91-4804-9067-c0f9a604488b" />
+
+
+
+
+
+
+
+
 <div align="center">
 
 **Built with ❤️ by Lovesh Chittora**
