@@ -213,7 +213,7 @@ study-buddy/
 
 <div align="center">
 
-**Built with ❤️ by Lovesh Chittora and Anshika Jain**
+**Built with ❤️ by Lovesh Chittora**
 
 *If this project helped you, consider giving it a ⭐ on GitHub!*
 
